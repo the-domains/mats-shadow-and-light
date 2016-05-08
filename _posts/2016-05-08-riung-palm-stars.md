@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "L'ultima sera dopo il tramonto il mare di stelle lungo la strada per tornare a casa"
-datePublished: '2016-05-08T14:39:37.806Z'
-dateModified: '2016-05-08T14:38:30.703Z'
+datePublished: '2016-05-08T14:55:06.565Z'
+dateModified: '2016-05-08T14:54:28.656Z'
 title: Riung - Palm Stars
 author: []
+sourcePath: _posts/2016-05-08-riung-palm-stars.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-08-riung-palm-stars.md
 url: riung-palm-stars/index.html
 _type: Article
 
