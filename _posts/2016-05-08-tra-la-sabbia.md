@@ -5,21 +5,23 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-08T15:08:23.989Z'
-dateModified: '2016-05-08T15:05:30.790Z'
+datePublished: '2016-05-08T15:33:38.497Z'
+dateModified: '2016-05-08T15:28:47.218Z'
 title: Tra la sabbia
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-05-08-tra-la-sabbia.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-05-08-tra-la-sabbia.md
-starred: true
+starred: false
 url: tra-la-sabbia/index.html
 _type: Article
 
 ---
-# Tra la sabbia
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a98e637e-e214-4bc4-9f51-8f640f6d2cbf.jpg)
+## Tra la sabbia
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cf341291e32919d32babd8701a434be29cc654f0.jpg)
