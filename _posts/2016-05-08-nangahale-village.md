@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Nangahale village
-datePublished: '2016-05-08T14:21:19.514Z'
-dateModified: '2016-05-08T14:19:41.104Z'
+datePublished: '2016-05-08T14:22:36.519Z'
+dateModified: '2016-05-08T14:22:13.191Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-08-nangahale-village.md
 authors: []
 publisher:
   name: null
@@ -16,9 +17,10 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-08-nangahale-village.md
 url: nangahale-village/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e69ff347-3028-4e22-b61f-9b60e5541cc0.jpg)
+
 Nangahale village
