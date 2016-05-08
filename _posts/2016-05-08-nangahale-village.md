@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: "Il primo villaggio che abbiamo visitato vicino ad Ankermi. Con il sale ricavato dall'evaporazione dell'acqua di mare si conserva il pesce"
-datePublished: '2016-05-08T14:42:34.444Z'
-dateModified: '2016-05-08T14:42:16.477Z'
+description: "Il primo villaggio visitato vicino ad Ankermi. Con il sale ricavato dall'evaporazione dell'acqua di mare si conserva il pesce"
+datePublished: '2016-05-08T14:56:11.755Z'
+dateModified: '2016-05-08T14:42:37.873Z'
 title: Nangahale village
 author: []
 sourcePath: _posts/2016-05-08-nangahale-village.md
@@ -25,6 +25,6 @@ _type: Article
 
 # Nangahale village
 
-> Il primo villaggio che abbiamo visitato vicino ad Ankermi. 
+> Il primo villaggio visitato vicino ad Ankermi. 
 > 
 > Con il sale ricavato dall'evaporazione dell'acqua di mare si conserva il pesce
