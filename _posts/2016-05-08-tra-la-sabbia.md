@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-08T15:03:22.315Z'
-dateModified: '2016-05-08T15:00:02.460Z'
+datePublished: '2016-05-08T15:08:23.989Z'
+dateModified: '2016-05-08T15:05:30.790Z'
 title: Tra la sabbia
 author: []
 authors: []
@@ -15,8 +15,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-05-08-tra-la-sabbia.md
+starred: true
 url: tra-la-sabbia/index.html
 _type: Article
 
