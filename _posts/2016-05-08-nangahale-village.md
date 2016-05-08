@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-08T15:23:30.691Z'
-dateModified: '2016-05-08T15:23:24.031Z'
+datePublished: '2016-05-08T15:38:25.229Z'
+dateModified: '2016-05-08T15:23:39.654Z'
 title: Nangahale village
 author: []
 sourcePath: _posts/2016-05-08-nangahale-village.md
