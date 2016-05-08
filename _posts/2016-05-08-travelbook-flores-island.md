@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Travelbook Flores Island
-datePublished: '2016-05-08T16:15:02.900Z'
-dateModified: '2016-05-08T16:14:50.976Z'
+datePublished: '2016-05-08T16:15:47.710Z'
+dateModified: '2016-05-08T16:15:07.470Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-08-travelbook-flores-island.md
